@@ -2,7 +2,7 @@
 channels = ["conda-forge"]
 description = "Course Materials for BINF 5507"
 name = "BINF-5507-caryngeady"
-platforms = ["osx-arm64"]
+platforms = ["osx-arm64","osx-64"]
 version = "0.1.0"
 
 [tasks]
